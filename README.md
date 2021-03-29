@@ -3,10 +3,10 @@ Artificial Neural Networks with Back Propagation &amp; Momentum (No external lib
 
 ## Steps
 1. Fix all hyperparameters 
-  - Learning rate
-  - Number of epochs
-  - Number of unit in each layer
-  - Momentum
+    - Learning rate
+    - Number of epochs
+    - Number of unit in each layer
+    - Momentum
 1. Initialize and assign random weights and biases
 1. For each training example:
   1. Calculate the output of each unit and propogate through the layers (forward)
