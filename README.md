@@ -1,7 +1,7 @@
 # ANN-with-Momentum
 Artificial Neural Networks with Back Propagation and Momentum (Without using keras and tensorflow)
 
-## Steps
+## Implementation Steps
 1. Import necessary libraries
   - numpy
   - matplotlib
@@ -28,7 +28,7 @@ Artificial Neural Networks with Back Propagation and Momentum (Without using ker
 
 1. Until the termination condition is met, Do
   - For each training example, Do
-  - **Forward Propagation:** Calculate the output of each unit and propagate through the layers.
-  - **Backward Propagation:**	Calculate the errors (for output and hidden units). Calculate the change in weights & biases. Add the momentum and update the weights & biases.
+    - **Forward Propagation:** Calculate the output of each unit and propagate through the layers.
+    - **Backward Propagation:**	Calculate the errors (for output and hidden units). Calculate the change in weights & biases. Add the momentum and update the weights & biases.
 
 **Note:** This is a project done for Machine Learning Course (Team of 4)
