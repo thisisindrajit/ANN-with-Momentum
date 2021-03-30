@@ -14,4 +14,4 @@ Artificial Neural Networks with Back Propagation &amp; Momentum (No external lib
   1. Find change in weight (loss)
   1. Update Weights
 
-**Note:** Project done for Machine Learning Course (Team of 3)
+**Note:** Project done for Machine Learning Course (Team of 4)
