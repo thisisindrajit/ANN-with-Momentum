@@ -38,6 +38,21 @@ Artificial Neural Networks with Back Propagation and Momentum (Without using ker
 
 **Note:** This is a project done for Machine Learning Course (Team of 4)
 
+---
+
+## Emergency Vehicle Classification - Ambulance
+
+### Accuracy and Error - ANN without Momentum
+![Accuracy and Error - ANN without Momentum](./images/ANNwithoutMomentum.png)
+
+### [Accuracy and Error - ANN with Momentum
+![Accuracy and Error - ANN without Momentum](./images/ANNwithMomentum.png)
+
+### Classification made by the model
+![Classfication made by the model](./images/classification.png)
+
+---
+
 ## References
 - [Building your Neural Network Step by Step](https://github.com/amanchadha/coursera-deep-learning-specialization/tree/master/C1%20-%20Neural%20Networks%20and%20Deep%20Learning/Week%204/Building%20your%20Deep%20Neural%20Network%20-%20Step%20by%20Step)
 - Machine Learning - Tom Mitchell
