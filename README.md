@@ -45,7 +45,7 @@ Artificial Neural Networks with Back Propagation and Momentum (Without using ker
 ### Accuracy and Error - ANN without Momentum
 ![Accuracy and Error - ANN without Momentum](./images/ANNwithoutMomentum.png)
 
-### [Accuracy and Error - ANN with Momentum
+### Accuracy and Error - ANN with Momentum
 ![Accuracy and Error - ANN without Momentum](./images/ANNwithMomentum.png)
 
 ### Classification made by the model
