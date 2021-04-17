@@ -5,7 +5,6 @@ Artificial Neural Networks with Back Propagation and Momentum (Without using ker
 1. [Emergency Vehicle Classification - Ambulance](ANN_with_Momentum_Emergency_Vehicle_Classification.ipynb)
 1. [Classify image as cat or not cat](ANN_with_Momentum.ipynb)
 
-
 ## Implementation Steps
 1. Import necessary libraries
     - numpy
@@ -36,8 +35,6 @@ Artificial Neural Networks with Back Propagation and Momentum (Without using ker
       - **Forward Propagation:** Calculate the output of each unit and propagate through the layers.
       - **Backward Propagation:**	Calculate the errors (for output and hidden units). Calculate the change in weights & biases. Add the momentum and update the weights & biases.
 
-**Note:** This is a project done for Machine Learning Course (Team of 4)
-
 ---
 
 ## Emergency Vehicle Classification - Ambulance
@@ -56,3 +53,6 @@ Artificial Neural Networks with Back Propagation and Momentum (Without using ker
 ## References
 - [Building your Neural Network Step by Step](https://github.com/amanchadha/coursera-deep-learning-specialization/tree/master/C1%20-%20Neural%20Networks%20and%20Deep%20Learning/Week%204/Building%20your%20Deep%20Neural%20Network%20-%20Step%20by%20Step)
 - Machine Learning - Tom Mitchell
+
+### Note
+This is a project done for Machine Learning Course (Team of 4)
